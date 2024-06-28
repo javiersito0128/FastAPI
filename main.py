@@ -18,3 +18,4 @@ def read_item(item_id: int, q: Union[str, None] = None):
 # Creacion de la funcion la cual servira en este path
 def calcular (operando_1 : float, operando_2: float):
     return {'suma': operando_1 + operando_2}
+
